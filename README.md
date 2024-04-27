@@ -19,4 +19,4 @@ The Hotstar Clone Project aims to recreate the user interface and functionality 
 To use the Hotstar Clone Project, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/hotstar-clone.git
+git clone https://github.com/AneettaGeorge/hotstar-clone.git
